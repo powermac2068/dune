@@ -1,1 +1,1 @@
-#This is my first website, showing my trip to Libya.
+This is my first website, showing my trip to Libya.
